@@ -1,0 +1,1 @@
+This is a sample file for Practising the git and a home task by Epam system PEP .
